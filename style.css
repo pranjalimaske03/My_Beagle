@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+h1{
+    font-family: 'Inter',sans-serif;
+    text-decoration: underline;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 48.71px;
+}
+#abc{
+    border-style: solid;
+    margin: 20px;
+
+}
+section{
+    border-style: hidden;
+    margin: 20px;
+
+}
+
+
+.paragraph{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48.41px;
+}
+a{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48.41px;
+
+}
+img{
+    width: 1051px;
+    height: 894px;
+    top: 742px;
+    left: 58px;
+    text-align: center;
+
+}
+ol{
+    font-family: 'Inter';
+    font-size: 40px;
+    font-weight: 400px;
+    line-height: 48px;
+    text-align: left;
+
+}
